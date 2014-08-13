@@ -1,0 +1,12 @@
+syntax: glob
+.git*
+*.diff
+*.patch
+.??*.sw?
+*.sw?
+tags
+*.lisp
+*.md
+*.asd
+*.txt
+
