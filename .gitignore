@@ -6,6 +6,10 @@
 *.fasl
 *.diff
 *.patch
+*.log
+*.txt
+log
+work
 tags
 TODO*
 
